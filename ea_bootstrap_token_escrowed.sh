@@ -1,7 +1,7 @@
 #!/bin/bash
 # ea_bootstrap_token_escrowed
 # Purpose: Check if the boostrap token has been escrowed to the MDM
-# Global Custom Field: Type: Text, Label: ea_bootstrap_token_escrowed, Name: eabootstraptokenescrowed, Scope: Device
+# Role Custom Field: Type: Text, Label: ea_bootstrap_token_escrowed, Name: eabootstraptokenescrowed, Scope: Device
 # Run "bash ea_bootstrap_token_escrowed.sh -debug" to view results in a local terminal
 
 DEBUG_MODE=false
