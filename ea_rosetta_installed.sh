@@ -1,7 +1,7 @@
 #!/bin/bash
 # ea_rosetta_installed
 # Purpose: Check if Rosetta translation layer is installed on Apple Silicon Macs
-# Global Custom Field: Type: Text, Label: ea_rosetta_installed, Name: earosettainstalled, Scope: Device
+# Role Custom Field: Type: Text, Label: ea_rosetta_installed, Name: earosettainstalled, Scope: Device
 # Run "bash ea_rosetta_installed.sh -debug" to view results in a local terminal
 
 DEBUG_MODE=false
