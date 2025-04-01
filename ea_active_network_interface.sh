@@ -1,7 +1,7 @@
 #!/bin/bash
 # ea_active_network_interface
 # Purpose: Display active network services and IP Addresses
-# Global Custom Field: Type: Text, Label: ea_active_network_interface, Name: eaactivenetworkinterface, Scope: Device
+# Role Custom Field: Type: Text, Label: ea_active_network_interface, Name: eaactivenetworkinterface, Scope: Device
 # Run "bash ea_active_network_interface.sh -debug" to view results in a local terminal"
 
 DEBUG_MODE=false
