@@ -10,9 +10,9 @@ if [[ "$1" == "-debug" ]]; then
 fi
 
 if [ -d "/Applications/Google Chrome.app" ] ; then
-    RESULT=$( defaults read "/Applications/Google Chrome.app/Contents/Info" CFBundleShortVersionString )
+    result=$( defaults read "/Applications/Google Chrome.app/Contents/Info" CFBundleShortVersionString )
 else
-    RESULT="Not Installed"
+    result="Not Installed"
 fi
 
 if $DEBUG_MODE; then
