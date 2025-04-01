@@ -1,7 +1,7 @@
 #!/bin/bash
 # ea_local_admins
 # Purpose: Detect local admin accounts with UID above 455
-# Global Custom Field: Type: Text, Label: ea_local_admins, Name: ealocaladmins, Scope: Device
+# Role Custom Field: Type: Text, Label: ea_local_admins, Name: ealocaladmins, Scope: Device
 # Run "bash ea_local_admins.sh -debug" to view results in a local terminal
 
 DEBUG_MODE=false
