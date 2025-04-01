@@ -1,7 +1,7 @@
 #!/bin/bash
 # ea_geolocation
 # Purpose: Report device geolocation based on public IP address
-# Global Custom Field: Type: Text, Label: ea_geolocation, Name: eageolocation, Scope: Device
+# Role Custom Field: Type: Text, Label: ea_geolocation, Name: eageolocation, Scope: Device
 # Run "bash ea_geolocation.sh -debug" to view results in a local terminal
 
 DEBUG_MODE=false
