@@ -1,7 +1,7 @@
 #!/bin/bash
 # ea_battery_health
 # Purpose: Check battery health, condition, and cycle count
-# Global Custom Field: Type: Text, Label: ea_battery_health, Name: eabatteryhealth, Scope: Device
+# Role Custom Field: Type: Text, Label: ea_battery_health, Name: eabatteryhealth, Scope: Device
 # Run "bash ea_battery_health.sh -debug" to view results in a local terminal
 
 DEBUG_MODE=false
