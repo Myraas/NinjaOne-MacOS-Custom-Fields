@@ -1,7 +1,7 @@
 #!/bin/bash
 # ea_battery_cycles
 # Purpose: Check battery cycle count
-# Global Custom Field: Type: Text, Label: ea_battery_cycles, Name: eabatterycycles, Scope: Device
+# Role Custom Field: Type: Text, Label: ea_battery_cycles, Name: eabatterycycles, Scope: Device
 # Run "bash ea_battery_cycles.sh -debug" to view results in a local terminal
 
 DEBUG_MODE=false
