@@ -1,7 +1,7 @@
 #!/bin/bash
 # ea_chrome_version
 # Purpose: Check installed Google Chrome version
-# Global Custom Field: Type: Text, Label: ea_chrome_version, Name: eachromeversion, Scope: Device
+# Role Custom Field: Type: Text, Label: ea_chrome_version, Name: eachromeversion, Scope: Device
 # Run "bash ea_chrome_version.sh -debug" to view results in a local terminal
 
 DEBUG_MODE=false
