@@ -1,7 +1,7 @@
 #!/bin/bash
 # ea_uptime_days
 # Purpose: Report system uptime in days
-# Global Custom Field: Type: Text, Label: ea_uptime_days, Name: eauptimedays, Scope: Device
+# Role Custom Field: Type: Text, Label: ea_uptime_days, Name: eauptimedays, Scope: Device
 # Run "bash ea_uptime_days.sh -debug" to view results in a local terminal
 
 DEBUG_MODE=false
